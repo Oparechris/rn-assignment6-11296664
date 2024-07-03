@@ -27,22 +27,6 @@ This is a simple shopping application built with React Native. It allows users t
 - Users can remove products from their cart.
 - Users can view the items in their cart.
 
-## Running the Application
-
-1. Clone the repository.
-2. Navigate to the project directory.
-3. Install dependencies:
-
-    ```bash
-    npm install
-    ```
-
-4. Run the application:
-
-    ```bash
-    npx react-native run-android  # For Android
-    npx react-native run-ios      # For iOS
-    ```
 
 ## Design Choices
 
